@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+venv/
+.venv/
+.env
+
+# Large Files & Data
+input_pdfs/
+data/
+corpus/
+output_txts/
+*.pdf
+*.csv
+*.json
+
+# Web
+node_modules/
+knowledge-platform/node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db

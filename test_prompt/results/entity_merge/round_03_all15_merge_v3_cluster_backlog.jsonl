@@ -1,0 +1,118 @@
+{"cluster_id": "cluster_c26c780188a2", "canonical_name": "principal component analysis", "type": "algorithm", "form_count": 5, "book_count": 7, "member_names": ["主成分分析", "principal component analysis", "principal components analysis", "PCA", "Principal Component Analysis"]}
+{"cluster_id": "cluster_a2297ad23975", "canonical_name": "standard deviation", "type": "concept", "form_count": 2, "book_count": 6, "member_names": ["standard deviation", "标准差"]}
+{"cluster_id": "cluster_f5d56e4c19d2", "canonical_name": "heat map", "type": "concept", "form_count": 5, "book_count": 5, "member_names": ["heat map", "heat maps", "heatmap", "heatmaps", "Heatmaps"]}
+{"cluster_id": "cluster_ecc4cc9d1497", "canonical_name": "norm", "type": "concept", "form_count": 4, "book_count": 5, "member_names": ["norm", "Norm", "norms", "Norms"]}
+{"cluster_id": "cluster_017b1e1a8a29", "canonical_name": "machine learning", "type": "algorithm", "form_count": 3, "book_count": 5, "member_names": ["机器学习", "machine learning", "Machine learning"]}
+{"cluster_id": "cluster_3e6956e2a5f6", "canonical_name": "p-value", "type": "concept", "form_count": 4, "book_count": 4, "member_names": ["p-value", "p-values", "P value", "P-value"]}
+{"cluster_id": "cluster_83fe0b603b1a", "canonical_name": "singular value decomposition", "type": "algorithm", "form_count": 4, "book_count": 4, "member_names": ["奇异值分解", "singular value decomposition", "SVD", "Singular Value Decomposition"]}
+{"cluster_id": "cluster_b112dec085c5", "canonical_name": "confidence interval", "type": "concept", "form_count": 3, "book_count": 4, "member_names": ["confidence interval", "confidence intervals", "Confidence Intervals"]}
+{"cluster_id": "cluster_45ad3d9718ea", "canonical_name": "overfitting", "type": "concept", "form_count": 3, "book_count": 4, "member_names": ["overfitting", "Overfitting", "over-fitting"]}
+{"cluster_id": "cluster_4ad8e3984e75", "canonical_name": "K-means", "type": "algorithm", "form_count": 2, "book_count": 4, "member_names": ["K-means", "k-means"]}
+{"cluster_id": "cluster_72ceefdfbcd4", "canonical_name": "k-means clustering", "type": "algorithm", "form_count": 2, "book_count": 4, "member_names": ["k-means clustering", "K-means clustering"]}
+{"cluster_id": "cluster_10a3d3e0dce8", "canonical_name": "outliers", "type": "concept", "form_count": 2, "book_count": 4, "member_names": ["outlier", "outliers"]}
+{"cluster_id": "cluster_0caea62a6cce", "canonical_name": "sample mean", "type": "concept", "form_count": 2, "book_count": 4, "member_names": ["sample mean", "sample means"]}
+{"cluster_id": "cluster_af91866c0491", "canonical_name": "supervised learning", "type": "algorithm", "form_count": 2, "book_count": 4, "member_names": ["监督学习", "supervised learning"]}
+{"cluster_id": "cluster_6cbf117a0a4a", "canonical_name": "map", "type": "concept", "form_count": 4, "book_count": 3, "member_names": ["map", "MAP", "Map", "maps"]}
+{"cluster_id": "cluster_50dd9163c218", "canonical_name": "Conversion Rate", "type": "concept", "form_count": 3, "book_count": 3, "member_names": ["Conversion Rate", "conversion rate", "Conversion rate"]}
+{"cluster_id": "cluster_ceb13aeb7e8d", "canonical_name": "histogram", "type": "concept", "form_count": 3, "book_count": 3, "member_names": ["histogram", "Histogram", "histograms"]}
+{"cluster_id": "cluster_d11c62506515", "canonical_name": "A/B test", "type": "algorithm", "form_count": 2, "book_count": 3, "member_names": ["A/B test", "A/B Test"]}
+{"cluster_id": "cluster_202f7ab2646e", "canonical_name": "benchmark", "type": "concept", "form_count": 2, "book_count": 3, "member_names": ["benchmark", "benchmarks"]}
+{"cluster_id": "cluster_e0900a10eaa9", "canonical_name": "Boosting", "type": "algorithm", "form_count": 2, "book_count": 3, "member_names": ["Boosting", "boosting"]}
+{"cluster_id": "cluster_8dd482a063eb", "canonical_name": "clustering", "type": "algorithm", "form_count": 2, "book_count": 3, "member_names": ["聚类", "clustering"]}
+{"cluster_id": "cluster_e6d1bd216d58", "canonical_name": "clustering", "type": "task", "form_count": 2, "book_count": 3, "member_names": ["clustering", "Clustering"]}
+{"cluster_id": "cluster_723e280f1bbb", "canonical_name": "data visualization", "type": "concept", "form_count": 2, "book_count": 3, "member_names": ["data visualization", "data visualizations"]}
+{"cluster_id": "cluster_1ef1f5030abc", "canonical_name": "decision tree", "type": "algorithm", "form_count": 2, "book_count": 3, "member_names": ["decision tree", "Decision Tree"]}
+{"cluster_id": "cluster_ffd85b69de8c", "canonical_name": "independent variable", "type": "concept", "form_count": 2, "book_count": 3, "member_names": ["independent variable", "independent variables"]}
+{"cluster_id": "cluster_70a877df5570", "canonical_name": "indicator variable", "type": "concept", "form_count": 2, "book_count": 3, "member_names": ["indicator variable", "indicator variables"]}
+{"cluster_id": "cluster_f7081928b36c", "canonical_name": "interaction", "type": "concept", "form_count": 2, "book_count": 3, "member_names": ["interaction", "interactions"]}
+{"cluster_id": "cluster_b9777ec2321f", "canonical_name": "k-means聚类", "type": "algorithm", "form_count": 2, "book_count": 3, "member_names": ["k-means聚类", "k-Means 聚类"]}
+{"cluster_id": "cluster_04c26ba7df83", "canonical_name": "K均值聚类", "type": "algorithm", "form_count": 2, "book_count": 3, "member_names": ["K均值聚类", "k均值聚类"]}
+{"cluster_id": "cluster_318bea6467cc", "canonical_name": "LASSO", "type": "algorithm", "form_count": 2, "book_count": 3, "member_names": ["LASSO", "Lasso"]}
+{"cluster_id": "cluster_8cc80c0212a5", "canonical_name": "logistic regression", "type": "algorithm", "form_count": 2, "book_count": 3, "member_names": ["logistic regression", "Logistic regression"]}
+{"cluster_id": "cluster_95275c20e2b5", "canonical_name": "regularization", "type": "concept", "form_count": 2, "book_count": 3, "member_names": ["regularization", "Regularization"]}
+{"cluster_id": "cluster_c60c6caaa65a", "canonical_name": "scatter plot", "type": "concept", "form_count": 2, "book_count": 3, "member_names": ["scatter plot", "scatterplot"]}
+{"cluster_id": "cluster_795bf4185d83", "canonical_name": "unsupervised learning", "type": "algorithm", "form_count": 2, "book_count": 3, "member_names": ["unsupervised learning", "无监督学习"]}
+{"cluster_id": "cluster_0bb8d34ef31c", "canonical_name": "variance", "type": "concept", "form_count": 2, "book_count": 3, "member_names": ["variance", "Variance"]}
+{"cluster_id": "cluster_fc94534a9981", "canonical_name": "Backpropagation", "type": "algorithm", "form_count": 3, "book_count": 2, "member_names": ["Backpropagation", "back propagation", "backpropagation"]}
+{"cluster_id": "cluster_82f680b2560f", "canonical_name": "MapReduce", "type": "algorithm", "form_count": 3, "book_count": 2, "member_names": ["Map Reduce", "MapReduce", "Map/Reduce"]}
+{"cluster_id": "cluster_dd970ed817b9", "canonical_name": "Markov chains", "type": "algorithm", "form_count": 3, "book_count": 2, "member_names": ["Markov chains", "Markov Chain", "Markov chain"]}
+{"cluster_id": "cluster_116980efc0ce", "canonical_name": "metrics", "type": "concept", "form_count": 3, "book_count": 2, "member_names": ["metrics", "metric", "Metrics"]}
+{"cluster_id": "cluster_5ceae215026e", "canonical_name": "nonnegative matrix factorization", "type": "algorithm", "form_count": 3, "book_count": 2, "member_names": ["nonnegative matrix factorization", "Nonnegative Matrix Factorization", "non-negative matrix factorization"]}
+{"cluster_id": "cluster_50a339ad10ac", "canonical_name": "persona", "type": "concept", "form_count": 3, "book_count": 2, "member_names": ["persona", "personas", "Personas"]}
+{"cluster_id": "cluster_a55d5730e9da", "canonical_name": "questionnaire", "type": "tool", "form_count": 3, "book_count": 2, "member_names": ["questionnaire", "questionnaires", "Questionnaires"]}
+{"cluster_id": "cluster_de4fcd388f84", "canonical_name": "ROI", "type": "concept", "form_count": 3, "book_count": 2, "member_names": ["ROI", "投资回报率", "ROI (投资回报率)"]}
+{"cluster_id": "cluster_7e3f54712a21", "canonical_name": "spatio-temporal trajectory", "type": "concept", "form_count": 3, "book_count": 2, "member_names": ["path", "Paths", "spatio-temporal trajectory (path)"]}
+{"cluster_id": "cluster_2a8e02b2e0e6", "canonical_name": "stakeholders", "type": "concept", "form_count": 3, "book_count": 2, "member_names": ["stakeholders", "stakeholder", "Stakeholders"]}
+{"cluster_id": "cluster_64c4a0f9b5c7", "canonical_name": "supervised learning", "type": "task", "form_count": 3, "book_count": 2, "member_names": ["supervised learning", "Supervised Learning", "Supervised learning"]}
+{"cluster_id": "cluster_4a469dc83d04", "canonical_name": "System Usability Scale", "type": "concept", "form_count": 3, "book_count": 2, "member_names": ["SUS", "System Usability Scale", "System Usability Scale (SUS)"]}
+{"cluster_id": "cluster_5f69027f92ac", "canonical_name": "user researcher", "type": "concept", "form_count": 3, "book_count": 2, "member_names": ["user researcher", "User researcher", "user researchers"]}
+{"cluster_id": "cluster_c302b4b29233", "canonical_name": "wavelets", "type": "concept", "form_count": 3, "book_count": 2, "member_names": ["wavelets", "wavelet", "Wavelet"]}
+{"cluster_id": "cluster_455f90b3ecac", "canonical_name": "2×2 table", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["2 × 2 table", "2×2 table"]}
+{"cluster_id": "cluster_c4930299ddbd", "canonical_name": "A/B testing", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["A/B testing", "A/B测试"]}
+{"cluster_id": "cluster_ba62041e85db", "canonical_name": "accuracy", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["accuracy", "Accuracy"]}
+{"cluster_id": "cluster_1805357ded91", "canonical_name": "AdaBoost", "type": "algorithm", "form_count": 2, "book_count": 2, "member_names": ["AdaBoost", "Adaboost"]}
+{"cluster_id": "cluster_3092da28a1ee", "canonical_name": "alpha", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["alpha", "Alpha"]}
+{"cluster_id": "cluster_c893132a4ded", "canonical_name": "analysis", "type": "process", "form_count": 2, "book_count": 2, "member_names": ["analysis", "Analysis"]}
+{"cluster_id": "cluster_36c4a95ea27b", "canonical_name": "bagging", "type": "algorithm", "form_count": 2, "book_count": 2, "member_names": ["bagging", "Bagging"]}
+{"cluster_id": "cluster_1f08a532cb2f", "canonical_name": "color", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["color", "colors"]}
+{"cluster_id": "cluster_18de49dc43a3", "canonical_name": "control", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["control", "Control"]}
+{"cluster_id": "cluster_0e7fb36d2f27", "canonical_name": "Controllability", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["Controllability", "controllability"]}
+{"cluster_id": "cluster_f1d8437e859e", "canonical_name": "Convolution", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["Convolution", "convolution"]}
+{"cluster_id": "cluster_2fa16f4057ad", "canonical_name": "cost", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["cost", "Costs"]}
+{"cluster_id": "cluster_825cc760a01d", "canonical_name": "cross-validation", "type": "algorithm", "form_count": 2, "book_count": 2, "member_names": ["cross-validation", "Cross-validation"]}
+{"cluster_id": "cluster_6c1d19bb56ee", "canonical_name": "cross-validation", "type": "process", "form_count": 2, "book_count": 2, "member_names": ["cross-validation", "Cross-validation"]}
+{"cluster_id": "cluster_08ba34a8d3e5", "canonical_name": "Deep learning", "type": "algorithm", "form_count": 2, "book_count": 2, "member_names": ["Deep learning", "deep learning"]}
+{"cluster_id": "cluster_417049367fd7", "canonical_name": "distance metric", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["distance metric", "distance metrics"]}
+{"cluster_id": "cluster_40b83d9c2526", "canonical_name": "dot plot", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["dot plot", "Dot plots"]}
+{"cluster_id": "cluster_c332fd19fa27", "canonical_name": "Dropout", "type": "algorithm", "form_count": 2, "book_count": 2, "member_names": ["Dropout", "dropout"]}
+{"cluster_id": "cluster_ec9615b8a48a", "canonical_name": "effectiveness", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["effectiveness", "Effectiveness"]}
+{"cluster_id": "cluster_e63ed4e2a2e7", "canonical_name": "Efficiency", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["Efficiency", "efficiency"]}
+{"cluster_id": "cluster_f41866384ab8", "canonical_name": "Fast Fourier Transformation", "type": "algorithm", "form_count": 2, "book_count": 2, "member_names": ["Fast Fourier Transformation (FFT)", "FFT"]}
+{"cluster_id": "cluster_ad51f2b53551", "canonical_name": "gradient boosting", "type": "algorithm", "form_count": 2, "book_count": 2, "member_names": ["gradient boosting", "Gradient boosting"]}
+{"cluster_id": "cluster_40654c30fab2", "canonical_name": "graphic", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["graphic", "Graphics"]}
+{"cluster_id": "cluster_53301a1c9699", "canonical_name": "graphs", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["graphs", "Graph"]}
+{"cluster_id": "cluster_698af1bb2760", "canonical_name": "Hidden Layer", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["Hidden Layer", "hidden layer"]}
+{"cluster_id": "cluster_3664523800e8", "canonical_name": "Hidden Markov model", "type": "algorithm", "form_count": 2, "book_count": 2, "member_names": ["Hidden Markov model", "hidden Markov models"]}
+{"cluster_id": "cluster_c08d0f7c4383", "canonical_name": "high pass filter", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["high pass filter", "high-pass filter"]}
+{"cluster_id": "cluster_e6e8357e8ac3", "canonical_name": "interdisciplinary team", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["interdisciplinary team", "interdisciplinary teams"]}
+{"cluster_id": "cluster_319c516a58bd", "canonical_name": "interval", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["interval", "Intervals"]}
+{"cluster_id": "cluster_7b890e395382", "canonical_name": "k-means algorithm", "type": "algorithm", "form_count": 2, "book_count": 2, "member_names": ["k-means algorithm", "K-means algorithm"]}
+{"cluster_id": "cluster_e96afd1a38c7", "canonical_name": "K-means算法", "type": "algorithm", "form_count": 2, "book_count": 2, "member_names": ["K-means算法", "K-Means算法"]}
+{"cluster_id": "cluster_8a29651b0aa3", "canonical_name": "K值", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["K值", "k值"]}
+{"cluster_id": "cluster_ec0ad8352f2f", "canonical_name": "k近邻", "type": "algorithm", "form_count": 2, "book_count": 2, "member_names": ["k近邻", "K近邻"]}
+{"cluster_id": "cluster_2b073f3fccbd", "canonical_name": "learnability", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["learnability", "Learnability"]}
+{"cluster_id": "cluster_4287bd48ace3", "canonical_name": "lift", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["lift", "Lift"]}
+{"cluster_id": "cluster_10ba27df9cf4", "canonical_name": "loading", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["loading", "loadings"]}
+{"cluster_id": "cluster_4644d14d5c17", "canonical_name": "maximum likelihood estimation", "type": "algorithm", "form_count": 2, "book_count": 2, "member_names": ["maximum likelihood estimation", "Maximum likelihood estimation"]}
+{"cluster_id": "cluster_d8d5ffd349b2", "canonical_name": "Measurement", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["Measurement", "measurements"]}
+{"cluster_id": "cluster_ba69f1d9ff71", "canonical_name": "mindset", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["mindset", "Mindset"]}
+{"cluster_id": "cluster_adb6f1f5eb6e", "canonical_name": "model", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["model", "Model"]}
+{"cluster_id": "cluster_e6593a949fe5", "canonical_name": "Net Promoter Score", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["Net Promoter Score", "Net Promoter Scores"]}
+{"cluster_id": "cluster_42b2512e0dc4", "canonical_name": "objective data", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["objective data", "Objective data"]}
+{"cluster_id": "cluster_2eaba50062d5", "canonical_name": "Output Layer", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["Output Layer", "output layer"]}
+{"cluster_id": "cluster_c2e7b0c6195a", "canonical_name": "PageRank", "type": "algorithm", "form_count": 2, "book_count": 2, "member_names": ["PageRank", "pagerank"]}
+{"cluster_id": "cluster_619f74c9673b", "canonical_name": "panel", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["panel", "Panel"]}
+{"cluster_id": "cluster_e7ce11790ce0", "canonical_name": "p值", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["p值", "P值"]}
+{"cluster_id": "cluster_84911d9563c2", "canonical_name": "questionnaire", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["questionnaire", "questionnaires"]}
+{"cluster_id": "cluster_b10c23c3bf40", "canonical_name": "random projections", "type": "algorithm", "form_count": 2, "book_count": 2, "member_names": ["random projections", "Random Projection"]}
+{"cluster_id": "cluster_03c70c69ddc9", "canonical_name": "regularization", "type": "algorithm", "form_count": 2, "book_count": 2, "member_names": ["regularization", "Regularization"]}
+{"cluster_id": "cluster_9f0bef9fd550", "canonical_name": "ridge regression", "type": "algorithm", "form_count": 2, "book_count": 2, "member_names": ["ridge regression", "Ridge regression"]}
+{"cluster_id": "cluster_0d224ea2098d", "canonical_name": "right-singular vector", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["right singular vectors", "right-singular vector"]}
+{"cluster_id": "cluster_f4a0f0624ba0", "canonical_name": "scale", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["scale", "scales"]}
+{"cluster_id": "cluster_e289adb615ee", "canonical_name": "Sensitivity", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["Sensitivity", "sensitivity"]}
+{"cluster_id": "cluster_3d6e5eba9bf4", "canonical_name": "singular value", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["singular value", "singular values"]}
+{"cluster_id": "cluster_768c29f22e35", "canonical_name": "sparse vector", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["sparse vector", "Sparse Vector"]}
+{"cluster_id": "cluster_80d81fbd69b4", "canonical_name": "statistics", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["statistics", "statistic"]}
+{"cluster_id": "cluster_23b0264055fd", "canonical_name": "stochastic gradient descent", "type": "algorithm", "form_count": 2, "book_count": 2, "member_names": ["stochastic gradient descent", "Stochastic Gradient Descent"]}
+{"cluster_id": "cluster_a99f2cba9315", "canonical_name": "support vector machine", "type": "algorithm", "form_count": 2, "book_count": 2, "member_names": ["support vector machine", "support vector machines"]}
+{"cluster_id": "cluster_3d3c8623e63d", "canonical_name": "t-test", "type": "algorithm", "form_count": 2, "book_count": 2, "member_names": ["t-test", "t-tests"]}
+{"cluster_id": "cluster_4cd425ece69d", "canonical_name": "topic", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["topic", "Topic"]}
+{"cluster_id": "cluster_b95f2e3b123e", "canonical_name": "type", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["type", "Type"]}
+{"cluster_id": "cluster_3e67e22877ff", "canonical_name": "Type I error", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["Type I error", "Type I Error"]}
+{"cluster_id": "cluster_501cd8c49e87", "canonical_name": "Type II error", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["Type II error", "Type II Error"]}
+{"cluster_id": "cluster_ff4d12411112", "canonical_name": "unitary matrix", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["unitary matrix", "Unitary matrix"]}
+{"cluster_id": "cluster_3670ea1ef78a", "canonical_name": "usability problem", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["usability problem", "usability problems"]}
+{"cluster_id": "cluster_41e569226a98", "canonical_name": "usability test", "type": "process", "form_count": 2, "book_count": 2, "member_names": ["usability test", "usability tests"]}
+{"cluster_id": "cluster_d582f8b6c749", "canonical_name": "validity", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["validity", "Validity"]}
+{"cluster_id": "cluster_73fc124e9e6f", "canonical_name": "variables", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["variables", "variable"]}
+{"cluster_id": "cluster_ce4fac4d5782", "canonical_name": "Z分数", "type": "concept", "form_count": 2, "book_count": 2, "member_names": ["Z分数", "z分数"]}

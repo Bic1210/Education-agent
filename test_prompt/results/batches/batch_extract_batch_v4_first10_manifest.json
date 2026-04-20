@@ -1,0 +1,50 @@
+{
+  "batch_name": "batch_v4_first10",
+  "prompt_version": "v4",
+  "model": "deepseek-reasoner",
+  "base_url": "https://api.openai-proxy.org/v1",
+  "books": [
+    {
+      "book_file": "01_Data-Driven Science and Engineering Machine Learning, Dynamical Systems, and Control (Steven L. Brunton, J. Nathan Kutz) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "selected_chunks": 222
+    },
+    {
+      "book_file": "02_Foundations of Data Science (Avrim Blum, John Hopcroft, Ravindran Kannan) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "selected_chunks": 210
+    },
+    {
+      "book_file": "03_Game Analytics Maximizing the Value of Player Data (Magy Seif El-Nasr, Anders Drachen etc.) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "selected_chunks": 538
+    },
+    {
+      "book_file": "04_Practical Statistics for Data Scientists 50 Essential Concepts (Peter Bruce, Andrew Bruce) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "selected_chunks": 140
+    },
+    {
+      "book_file": "05_Quantifying the User Experience Practical Statistics For User Research (Jeff Sauro, James R Lewis) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "selected_chunks": 189
+    },
+    {
+      "book_file": "06_Storytelling with Data (Cole Nussbaumer Knaflic) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "selected_chunks": 98
+    },
+    {
+      "book_file": "07_The truthful art  data, charts, and maps for communication (Cairo, Alberto, 1974- author) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "selected_chunks": 70
+    },
+    {
+      "book_file": "08_Usability and User Experience Design The Comprehensive Guide to Data-Driven UX Design (Benjamin Franz, Michaela Kauer-Franz) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "selected_chunks": 435
+    },
+    {
+      "book_file": "09_可解释人工智能导论 (杨强 等) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "selected_chunks": 58
+    },
+    {
+      "book_file": "10_大数据与人工智能导论 (姚海鹏, 王露瑶, 刘韵洁) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "selected_chunks": 48
+    }
+  ],
+  "total_candidate_chunks": 2008,
+  "created_at": "20260418_221119"
+}

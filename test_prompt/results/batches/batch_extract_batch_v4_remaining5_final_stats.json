@@ -1,0 +1,104 @@
+{
+  "overall": {
+    "batch_name": "batch_v4_remaining5",
+    "prompt_version": "v4",
+    "model": "deepseek-reasoner",
+    "base_url": "https://api.openai-proxy.org/v1",
+    "source_jsonl": "/mnt/d/ayibike/video/education/second/EducationAgent/test_prompt/results/batches/batch_extract_batch_v4_remaining5.jsonl",
+    "deduped_jsonl": "/mnt/d/ayibike/video/education/second/EducationAgent/test_prompt/results/batches/batch_extract_batch_v4_remaining5_deduped.jsonl",
+    "manifest_file": "/mnt/d/ayibike/video/education/second/EducationAgent/test_prompt/results/batches/batch_extract_batch_v4_remaining5_manifest.json",
+    "summary_file": "/mnt/d/ayibike/video/education/second/EducationAgent/test_prompt/results/batches/batch_extract_batch_v4_remaining5_summary.json",
+    "raw_rows": 499,
+    "unique_chunk_keys": 493,
+    "superseded_rows": 6,
+    "remaining_error_keys": 0,
+    "books_selected": 5,
+    "candidate_chunks": 493,
+    "final_started_at": "20260419_133809",
+    "final_finished_at": "20260420_005455"
+  },
+  "books": [
+    {
+      "book_file": "11_数据科学的概率基础 (王学钦，赵鹏主编, 王学钦,赵鹏主编, 王学钦, 赵鹏) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "display_title": "数据科学的概率基础 (王学钦，赵鹏主编, 王学钦,赵鹏主编, 王学钦, 赵鹏) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "selected_chunks": 36,
+      "unique_chunks": 36,
+      "success_chunks": 36,
+      "error_chunks": 0,
+      "entity_total": 217,
+      "relation_total": 95,
+      "first_processed_at": "20260419_133809",
+      "last_processed_at": "20260419_134719",
+      "observed_book_title": "数据科学的概率基础 (王学钦，赵鹏主编, 王学钦,赵鹏主编, 王学钦, 赵鹏)"
+    },
+    {
+      "book_file": "12_资深游戏设计师25年实践经验结晶，通过量实例深入讲解了角色扮演游戏、实时战略游.json",
+      "display_title": "资深游戏设计师25年实践经验结晶，通过量实例深入讲解了角色扮演游戏、实时战略游",
+      "selected_chunks": 161,
+      "unique_chunks": 161,
+      "success_chunks": 161,
+      "error_chunks": 0,
+      "entity_total": 601,
+      "relation_total": 165,
+      "first_processed_at": "20260419_134722",
+      "last_processed_at": "20260419_141454",
+      "observed_book_title": "游戏设计师修炼之道 数据驱动的游戏设计 (Pdg2Pic, （美）摩尔著)"
+    },
+    {
+      "book_file": "13_游戏设计师修炼之道 数据驱动的游戏设计 (Pdg2Pic, （美）摩尔著) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "display_title": "游戏设计师修炼之道 数据驱动的游戏设计 (Pdg2Pic, （美）摩尔著) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "selected_chunks": 203,
+      "unique_chunks": 203,
+      "success_chunks": 203,
+      "error_chunks": 0,
+      "entity_total": 1478,
+      "relation_total": 677,
+      "first_processed_at": "20260419_141458",
+      "last_processed_at": "20260420_005409",
+      "observed_book_title": "知识图谱：方法、实践与应用 (王昊奋  漆桂林  陈华钧 主编)"
+    },
+    {
+      "book_file": "14_知识图谱：方法、实践与应用 (王昊奋  漆桂林  陈华钧 主编) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "display_title": "知识图谱：方法、实践与应用 (王昊奋  漆桂林  陈华钧 主编) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "selected_chunks": 92,
+      "unique_chunks": 92,
+      "success_chunks": 92,
+      "error_chunks": 0,
+      "entity_total": 892,
+      "relation_total": 464,
+      "first_processed_at": "20260419_180423",
+      "last_processed_at": "20260420_005455",
+      "observed_book_title": "统计学习方法（第2版） (李航)"
+    },
+    {
+      "book_file": "15_数据驱动设计：AB测试提升用户体验 (【美】罗谢尔·肯（Rochelle King）等) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "display_title": "数据驱动设计：AB测试提升用户体验 (【美】罗谢尔·肯（Rochelle King）等) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "selected_chunks": 1,
+      "unique_chunks": 1,
+      "success_chunks": 1,
+      "error_chunks": 0,
+      "entity_total": 15,
+      "relation_total": 0,
+      "first_processed_at": "20260419_183915",
+      "last_processed_at": "20260419_183915",
+      "observed_book_title": "15_数据驱动设计：AB测试提升用户体验 (【美】罗谢尔·肯（Rochelle King）等) (z-library.sk, 1lib.sk, z-lib.sk)"
+    }
+  ],
+  "metadata_warnings": [
+    {
+      "book_file": "12_资深游戏设计师25年实践经验结晶，通过量实例深入讲解了角色扮演游戏、实时战略游.json",
+      "expected_from_book_file": "资深游戏设计师25年实践经验结晶，通过量实例深入讲解了角色扮演游戏、实时战略游",
+      "observed_book_title": "游戏设计师修炼之道 数据驱动的游戏设计 (Pdg2Pic, （美）摩尔著)"
+    },
+    {
+      "book_file": "13_游戏设计师修炼之道 数据驱动的游戏设计 (Pdg2Pic, （美）摩尔著) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "expected_from_book_file": "游戏设计师修炼之道 数据驱动的游戏设计 (Pdg2Pic, （美）摩尔著) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "observed_book_title": "知识图谱：方法、实践与应用 (王昊奋  漆桂林  陈华钧 主编)"
+    },
+    {
+      "book_file": "14_知识图谱：方法、实践与应用 (王昊奋  漆桂林  陈华钧 主编) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "expected_from_book_file": "知识图谱：方法、实践与应用 (王昊奋  漆桂林  陈华钧 主编) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "observed_book_title": "统计学习方法（第2版） (李航)"
+    }
+  ]
+}

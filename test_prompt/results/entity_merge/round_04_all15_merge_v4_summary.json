@@ -1,0 +1,21 @@
+{
+  "input_results_file": "/mnt/d/ayibike/video/education/second/EducationAgent/test_prompt/results/batches/batch_extract_batch_v4_all15_deduped.jsonl",
+  "raw_entity_mentions": 13363,
+  "unique_entity_forms": 9761,
+  "seed_alias_clusters": 8,
+  "ambiguous_acronyms": [
+    "ML"
+  ],
+  "candidate_pairs": 900,
+  "merge_decisions": 521,
+  "uncertain_candidates": 379,
+  "clusters_after_merge": 9307,
+  "node_reduction": 454,
+  "boards": {
+    "surface_variants": 297,
+    "inflection_variants": 191,
+    "explicit_aliases": 33,
+    "risky_review": 379
+  },
+  "created_at": "20260420_030343"
+}

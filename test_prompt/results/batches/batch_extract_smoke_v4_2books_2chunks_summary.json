@@ -1,0 +1,17 @@
+{
+  "batch_name": "smoke_v4_2books_2chunks",
+  "prompt_version": "v4",
+  "model": "deepseek-reasoner",
+  "base_url": "https://api.openai-proxy.org/v1",
+  "books_selected": 2,
+  "candidate_chunks": 4,
+  "existing_successes_before_run": 4,
+  "processed_this_run": 0,
+  "successes_this_run": 0,
+  "failures_this_run": 0,
+  "skipped_existing": 4,
+  "started_at": "20260418_220319",
+  "finished_at": "20260418_220319",
+  "results_file": "/mnt/d/ayibike/video/education/second/EducationAgent/test_prompt/results/batches/batch_extract_smoke_v4_2books_2chunks.jsonl",
+  "manifest_file": "/mnt/d/ayibike/video/education/second/EducationAgent/test_prompt/results/batches/batch_extract_smoke_v4_2books_2chunks_manifest.json"
+}

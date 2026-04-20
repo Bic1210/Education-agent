@@ -1,0 +1,42 @@
+[
+  {
+    "canonical_name": "machine learning",
+    "type": "algorithm",
+    "aliases": ["machine learning", "Machine Learning", "Machine learning", "机器学习"]
+  },
+  {
+    "canonical_name": "A/B testing",
+    "type": "concept",
+    "aliases": ["A/B testing", "A/B Testing", "A/B测试"]
+  },
+  {
+    "canonical_name": "clustering",
+    "type": "algorithm",
+    "aliases": ["clustering", "Clustering", "聚类"]
+  },
+  {
+    "canonical_name": "supervised learning",
+    "type": "algorithm",
+    "aliases": ["supervised learning", "Supervised Learning", "监督学习"]
+  },
+  {
+    "canonical_name": "unsupervised learning",
+    "type": "algorithm",
+    "aliases": ["unsupervised learning", "Unsupervised Learning", "无监督学习"]
+  },
+  {
+    "canonical_name": "singular value decomposition",
+    "type": "algorithm",
+    "aliases": ["singular value decomposition", "Singular Value Decomposition", "奇异值分解", "SVD"]
+  },
+  {
+    "canonical_name": "principal component analysis",
+    "type": "algorithm",
+    "aliases": ["principal component analysis", "Principal Component Analysis", "主成分分析", "PCA"]
+  },
+  {
+    "canonical_name": "standard deviation",
+    "type": "concept",
+    "aliases": ["standard deviation", "Standard deviation", "标准差"]
+  }
+]

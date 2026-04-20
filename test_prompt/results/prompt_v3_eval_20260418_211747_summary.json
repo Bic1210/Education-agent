@@ -1,0 +1,21 @@
+{
+  "prompt_version": "v3",
+  "model": "deepseek-reasoner",
+  "base_url": "https://api.openai-proxy.org/v1",
+  "books": [
+    "04_Practical Statistics for Data Scientists 50 Essential Concepts (Peter Bruce, Andrew Bruce) (z-library.sk, 1lib.sk, z-lib.sk).json",
+    "09_可解释人工智能导论 (杨强 等) (z-library.sk, 1lib.sk, z-lib.sk).json"
+  ],
+  "requested_chunk_indexes": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "max_chunks_per_book": 4,
+  "min_char_count": 250,
+  "started_at": "20260418_211747",
+  "total_chunks": 8,
+  "successes": 8,
+  "failures": 0
+}

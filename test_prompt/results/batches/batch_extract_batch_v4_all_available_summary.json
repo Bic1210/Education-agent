@@ -1,0 +1,14 @@
+{
+  "batch_name": "batch_v4_all_available",
+  "prompt_version": "v4",
+  "model": "deepseek-reasoner",
+  "base_url": "https://api.openai-proxy.org/v1",
+  "books_selected": 15,
+  "candidate_chunks": 2501,
+  "existing_successes_before_run": 0,
+  "processed_this_run": 46,
+  "successes_this_run": 46,
+  "failures_this_run": 0,
+  "skipped_existing": 0,
+  "started_at": "20260419_132100"
+}

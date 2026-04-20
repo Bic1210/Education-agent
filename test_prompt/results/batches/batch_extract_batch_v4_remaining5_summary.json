@@ -1,0 +1,17 @@
+{
+  "batch_name": "batch_v4_remaining5",
+  "prompt_version": "v4",
+  "model": "deepseek-reasoner",
+  "base_url": "https://api.openai-proxy.org/v1",
+  "books_selected": 5,
+  "candidate_chunks": 493,
+  "existing_successes_before_run": 491,
+  "processed_this_run": 2,
+  "successes_this_run": 2,
+  "failures_this_run": 0,
+  "skipped_existing": 491,
+  "started_at": "20260420_005409",
+  "finished_at": "20260420_005534",
+  "results_file": "/mnt/d/ayibike/video/education/second/EducationAgent/test_prompt/results/batches/batch_extract_batch_v4_remaining5.jsonl",
+  "manifest_file": "/mnt/d/ayibike/video/education/second/EducationAgent/test_prompt/results/batches/batch_extract_batch_v4_remaining5_manifest.json"
+}

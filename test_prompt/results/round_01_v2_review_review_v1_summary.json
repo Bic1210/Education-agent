@@ -1,0 +1,10 @@
+{
+  "round_name": "round_01_v2_review",
+  "review_prompt_version": "review_v1",
+  "model": "deepseek-reasoner",
+  "base_url": "https://api.openai-proxy.org/v1",
+  "extraction_results_file": "/mnt/d/ayibike/video/education/second/EducationAgent/test_prompt/results/prompt_v2_eval_20260418_204626.jsonl",
+  "extraction_prompt_version": "v2",
+  "reviewed_records": 8,
+  "failures": 0
+}

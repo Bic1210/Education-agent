@@ -1,0 +1,253 @@
+{
+  "overall": {
+    "batch_name": "task10_final_all15",
+    "prompt_version": "v4",
+    "model": "deepseek-reasoner",
+    "base_url": "https://api.openai-proxy.org/v1",
+    "books_selected": 15,
+    "candidate_chunks": 2501,
+    "raw_rows_first10": 2053,
+    "raw_rows_remaining5_deduped": 493,
+    "raw_rows_combined_source": 2546,
+    "unique_chunk_keys": 2501,
+    "remaining_error_keys": 0,
+    "first10_remaining_error_keys": 0,
+    "remaining5_remaining_error_keys": 0,
+    "first_processed_at": "20260418_221130",
+    "last_processed_at": "20260420_021730",
+    "first10_deduped_jsonl": "/mnt/d/ayibike/video/education/second/EducationAgent/test_prompt/results/batches/batch_extract_batch_v4_first10_deduped.jsonl",
+    "remaining5_deduped_jsonl": "/mnt/d/ayibike/video/education/second/EducationAgent/test_prompt/results/batches/batch_extract_batch_v4_remaining5_deduped.jsonl",
+    "combined_deduped_jsonl": "/mnt/d/ayibike/video/education/second/EducationAgent/test_prompt/results/batches/batch_extract_batch_v4_all15_deduped.jsonl",
+    "first10_summary_file": "/mnt/d/ayibike/video/education/second/EducationAgent/test_prompt/results/batches/batch_extract_batch_v4_first10_summary.json",
+    "remaining5_summary_file": "/mnt/d/ayibike/video/education/second/EducationAgent/test_prompt/results/batches/batch_extract_batch_v4_remaining5_summary.json",
+    "obsolete_incomplete_all_available_summary_file": "/mnt/d/ayibike/video/education/second/EducationAgent/test_prompt/results/batches/batch_extract_batch_v4_all_available_summary.json"
+  },
+  "acceptance": {
+    "criterion_1_all_15_books_covered": true,
+    "criterion_2_all_candidate_chunks_covered": true,
+    "criterion_3_remaining_error_keys_zero": true,
+    "criterion_4_batch_script_available": true,
+    "criterion_5_prompt_iteration_has_quality_risk": false,
+    "task10_engineering_status": "pass",
+    "task10_quality_status": "conditional_pass",
+    "notes": [
+      "任务10的工程验收已通过：15本书、2501个唯一chunk、残余错误0。",
+      "batch_v4_all_available 是未完成的早期尝试，不应作为最终统计口径。",
+      "prompt质量轮次评审仍有 revise/reject，故“工程达标”不等于“抽取质量最终达标”。"
+    ]
+  },
+  "books": [
+    {
+      "book_file": "01_Data-Driven Science and Engineering Machine Learning, Dynamical Systems, and Control (Steven L. Brunton, J. Nathan Kutz) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "display_title": "Data-Driven Science and Engineering Machine Learning, Dynamical Systems, and Control (Steven L. Brunton, J. Nathan Kutz) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "selected_chunks": 222,
+      "unique_chunks": 222,
+      "success_chunks": 222,
+      "error_chunks": 0,
+      "entity_total": 1295,
+      "relation_total": 508,
+      "first_processed_at": "20260418_221130",
+      "last_processed_at": "20260420_021429",
+      "observed_book_title": "Data-Driven Science and Engineering Machine Learning, Dynamical Systems, and Control (Steven L. Brunton, J. Nathan Kutz)"
+    },
+    {
+      "book_file": "02_Foundations of Data Science (Avrim Blum, John Hopcroft, Ravindran Kannan) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "display_title": "Foundations of Data Science (Avrim Blum, John Hopcroft, Ravindran Kannan) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "selected_chunks": 210,
+      "unique_chunks": 210,
+      "success_chunks": 210,
+      "error_chunks": 0,
+      "entity_total": 1026,
+      "relation_total": 323,
+      "first_processed_at": "20260418_230538",
+      "last_processed_at": "20260420_021503",
+      "observed_book_title": "Foundations of Data Science (Avrim Blum, John Hopcroft, Ravindran Kannan)"
+    },
+    {
+      "book_file": "03_Game Analytics Maximizing the Value of Player Data (Magy Seif El-Nasr, Anders Drachen etc.) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "display_title": "Game Analytics Maximizing the Value of Player Data (Magy Seif El-Nasr, Anders Drachen etc.) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "selected_chunks": 538,
+      "unique_chunks": 538,
+      "success_chunks": 538,
+      "error_chunks": 0,
+      "entity_total": 2697,
+      "relation_total": 876,
+      "first_processed_at": "20260418_235022",
+      "last_processed_at": "20260420_021612",
+      "observed_book_title": "Game Analytics Maximizing the Value of Player Data (Magy Seif El-Nasr, Anders Drachen etc.)"
+    },
+    {
+      "book_file": "04_Practical Statistics for Data Scientists 50 Essential Concepts (Peter Bruce, Andrew Bruce) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "display_title": "Practical Statistics for Data Scientists 50 Essential Concepts (Peter Bruce, Andrew Bruce) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "selected_chunks": 140,
+      "unique_chunks": 140,
+      "success_chunks": 140,
+      "error_chunks": 0,
+      "entity_total": 851,
+      "relation_total": 263,
+      "first_processed_at": "20260419_013839",
+      "last_processed_at": "20260419_020831",
+      "observed_book_title": "Practical Statistics for Data Scientists 50 Essential Concepts (Peter Bruce, Andrew Bruce)"
+    },
+    {
+      "book_file": "05_Quantifying the User Experience Practical Statistics For User Research (Jeff Sauro, James R Lewis) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "display_title": "Quantifying the User Experience Practical Statistics For User Research (Jeff Sauro, James R Lewis) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "selected_chunks": 189,
+      "unique_chunks": 189,
+      "success_chunks": 189,
+      "error_chunks": 0,
+      "entity_total": 937,
+      "relation_total": 313,
+      "first_processed_at": "20260419_020834",
+      "last_processed_at": "20260420_021655",
+      "observed_book_title": "Quantifying the User Experience Practical Statistics For User Research (Jeff Sauro, James R Lewis)"
+    },
+    {
+      "book_file": "06_Storytelling with Data (Cole Nussbaumer Knaflic) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "display_title": "Storytelling with Data (Cole Nussbaumer Knaflic) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "selected_chunks": 98,
+      "unique_chunks": 98,
+      "success_chunks": 98,
+      "error_chunks": 0,
+      "entity_total": 362,
+      "relation_total": 99,
+      "first_processed_at": "20260419_024446",
+      "last_processed_at": "20260419_025915",
+      "observed_book_title": "Storytelling with Data (Cole Nussbaumer Knaflic)"
+    },
+    {
+      "book_file": "07_The truthful art  data, charts, and maps for communication (Cairo, Alberto, 1974- author) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "display_title": "The truthful art  data, charts, and maps for communication (Cairo, Alberto, 1974- author) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "selected_chunks": 70,
+      "unique_chunks": 70,
+      "success_chunks": 70,
+      "error_chunks": 0,
+      "entity_total": 331,
+      "relation_total": 105,
+      "first_processed_at": "20260419_025918",
+      "last_processed_at": "20260419_031150",
+      "observed_book_title": "The truthful art  data, charts, and maps for communication (Cairo, Alberto, 1974- author)"
+    },
+    {
+      "book_file": "08_Usability and User Experience Design The Comprehensive Guide to Data-Driven UX Design (Benjamin Franz, Michaela Kauer-Franz) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "display_title": "Usability and User Experience Design The Comprehensive Guide to Data-Driven UX Design (Benjamin Franz, Michaela Kauer-Franz) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "selected_chunks": 435,
+      "unique_chunks": 435,
+      "success_chunks": 435,
+      "error_chunks": 0,
+      "entity_total": 1825,
+      "relation_total": 509,
+      "first_processed_at": "20260419_031202",
+      "last_processed_at": "20260420_021730",
+      "observed_book_title": "Usability and User Experience Design The Comprehensive Guide to Data-Driven UX Design (Benjamin Franz, Michaela Kauer-Franz)"
+    },
+    {
+      "book_file": "09_可解释人工智能导论 (杨强 等) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "display_title": "可解释人工智能导论 (杨强 等) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "selected_chunks": 58,
+      "unique_chunks": 58,
+      "success_chunks": 58,
+      "error_chunks": 0,
+      "entity_total": 421,
+      "relation_total": 149,
+      "first_processed_at": "20260419_042453",
+      "last_processed_at": "20260419_043824",
+      "observed_book_title": "可解释人工智能导论 (杨强 等)"
+    },
+    {
+      "book_file": "10_大数据与人工智能导论 (姚海鹏, 王露瑶, 刘韵洁) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "display_title": "大数据与人工智能导论 (姚海鹏, 王露瑶, 刘韵洁) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "selected_chunks": 48,
+      "unique_chunks": 48,
+      "success_chunks": 48,
+      "error_chunks": 0,
+      "entity_total": 415,
+      "relation_total": 207,
+      "first_processed_at": "20260419_043923",
+      "last_processed_at": "20260419_045301",
+      "observed_book_title": "大数据与人工智能导论 (姚海鹏, 王露瑶, 刘韵洁)"
+    },
+    {
+      "book_file": "11_数据科学的概率基础 (王学钦，赵鹏主编, 王学钦,赵鹏主编, 王学钦, 赵鹏) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "display_title": "数据科学的概率基础 (王学钦，赵鹏主编, 王学钦,赵鹏主编, 王学钦, 赵鹏) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "selected_chunks": 36,
+      "unique_chunks": 36,
+      "success_chunks": 36,
+      "error_chunks": 0,
+      "entity_total": 217,
+      "relation_total": 95,
+      "first_processed_at": "20260419_133809",
+      "last_processed_at": "20260419_134719",
+      "observed_book_title": "数据科学的概率基础 (王学钦，赵鹏主编, 王学钦,赵鹏主编, 王学钦, 赵鹏)"
+    },
+    {
+      "book_file": "12_资深游戏设计师25年实践经验结晶，通过量实例深入讲解了角色扮演游戏、实时战略游.json",
+      "display_title": "资深游戏设计师25年实践经验结晶，通过量实例深入讲解了角色扮演游戏、实时战略游",
+      "selected_chunks": 161,
+      "unique_chunks": 161,
+      "success_chunks": 161,
+      "error_chunks": 0,
+      "entity_total": 601,
+      "relation_total": 165,
+      "first_processed_at": "20260419_134722",
+      "last_processed_at": "20260419_141454",
+      "observed_book_title": "游戏设计师修炼之道 数据驱动的游戏设计 (Pdg2Pic, （美）摩尔著)"
+    },
+    {
+      "book_file": "13_游戏设计师修炼之道 数据驱动的游戏设计 (Pdg2Pic, （美）摩尔著) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "display_title": "游戏设计师修炼之道 数据驱动的游戏设计 (Pdg2Pic, （美）摩尔著) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "selected_chunks": 203,
+      "unique_chunks": 203,
+      "success_chunks": 203,
+      "error_chunks": 0,
+      "entity_total": 1478,
+      "relation_total": 677,
+      "first_processed_at": "20260419_141458",
+      "last_processed_at": "20260420_005409",
+      "observed_book_title": "知识图谱：方法、实践与应用 (王昊奋  漆桂林  陈华钧 主编)"
+    },
+    {
+      "book_file": "14_知识图谱：方法、实践与应用 (王昊奋  漆桂林  陈华钧 主编) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "display_title": "知识图谱：方法、实践与应用 (王昊奋  漆桂林  陈华钧 主编) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "selected_chunks": 92,
+      "unique_chunks": 92,
+      "success_chunks": 92,
+      "error_chunks": 0,
+      "entity_total": 892,
+      "relation_total": 464,
+      "first_processed_at": "20260419_180423",
+      "last_processed_at": "20260420_005455",
+      "observed_book_title": "统计学习方法（第2版） (李航)"
+    },
+    {
+      "book_file": "15_数据驱动设计：AB测试提升用户体验 (【美】罗谢尔·肯（Rochelle King）等) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "display_title": "数据驱动设计：AB测试提升用户体验 (【美】罗谢尔·肯（Rochelle King）等) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "selected_chunks": 1,
+      "unique_chunks": 1,
+      "success_chunks": 1,
+      "error_chunks": 0,
+      "entity_total": 15,
+      "relation_total": 0,
+      "first_processed_at": "20260419_183915",
+      "last_processed_at": "20260419_183915",
+      "observed_book_title": "15_数据驱动设计：AB测试提升用户体验 (【美】罗谢尔·肯（Rochelle King）等) (z-library.sk, 1lib.sk, z-lib.sk)"
+    }
+  ],
+  "metadata_warnings": [
+    {
+      "book_file": "12_资深游戏设计师25年实践经验结晶，通过量实例深入讲解了角色扮演游戏、实时战略游.json",
+      "expected_from_book_file": "资深游戏设计师25年实践经验结晶，通过量实例深入讲解了角色扮演游戏、实时战略游",
+      "observed_book_title": "游戏设计师修炼之道 数据驱动的游戏设计 (Pdg2Pic, （美）摩尔著)"
+    },
+    {
+      "book_file": "13_游戏设计师修炼之道 数据驱动的游戏设计 (Pdg2Pic, （美）摩尔著) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "expected_from_book_file": "游戏设计师修炼之道 数据驱动的游戏设计 (Pdg2Pic, （美）摩尔著) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "observed_book_title": "知识图谱：方法、实践与应用 (王昊奋  漆桂林  陈华钧 主编)"
+    },
+    {
+      "book_file": "14_知识图谱：方法、实践与应用 (王昊奋  漆桂林  陈华钧 主编) (z-library.sk, 1lib.sk, z-lib.sk).json",
+      "expected_from_book_file": "知识图谱：方法、实践与应用 (王昊奋  漆桂林  陈华钧 主编) (z-library.sk, 1lib.sk, z-lib.sk)",
+      "observed_book_title": "统计学习方法（第2版） (李航)"
+    }
+  ]
+}
